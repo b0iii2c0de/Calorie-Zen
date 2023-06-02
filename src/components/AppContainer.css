@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: center;
+  min-height: 70vh;
+  margin-top: 50px;
+  list-style-type: none;
+}
+
+.calories {
+  width: 250px;
+  border: 2px solid #bf87c3;
+  border-radius: 20px;
+  text-align: center;
+  border-right: none;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.container h2 {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.2;
+  margin-top: 25px;
+}
