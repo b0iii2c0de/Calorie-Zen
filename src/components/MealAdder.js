@@ -1,6 +1,7 @@
 import React from 'react';
 import './MealAdder.css';
 
+// Class component ↓
 class MealAdder extends React.Component {
   constructor(props) {
     super(props);
